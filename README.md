@@ -1,6 +1,4 @@
-<h1 align="center"><code>SCHOOL 2A</code></h1>
 
-![42 School]
 
 
 - [Introduction](#introduction)
