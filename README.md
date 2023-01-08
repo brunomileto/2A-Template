@@ -1,6 +1,6 @@
-<h1 align="center"><code>ALL SCHOOL 42</code></h1>
+<h1 align="center"><code>SCHOOL 2A</code></h1>
 
-![42 School](https://github.com/brunomileto/42_school/tree/main/03_Norme____(Rules_and_Regulations_of_the_School)/src/header/header_004_.png)
+![42 School]
 
 
 - [Introduction](#introduction)
@@ -18,17 +18,17 @@
   - [Infrastructure & Network Administration](#infrastructure--network-administration)
   - [Ai Projects - Artificial intelligence](#ai-projects---artificial-intelligence)
   - [Side Projects](#side-projects)
-- [3. Other Piscines by School 42](#3-other-piscines-by-school-42)
-- [4. Group project by School 42(Rushes - mini-HACKATHONS)](#4-group-project-by-school-42rushes---minihackathons)
+- [3. Other Piscines by School 2A](#3-other-piscines-by-school-42)
+- [4. Group project by School 2A(Rushes - mini-HACKATHONS)](#4-group-project-by-school-42rushes---minihackathons)
 
 
 # Introduction #
 
-This repository contains ALL, the TASKS and the PROJECTS in the training program from the [french school of programming `Ecole 42`](https://www.42.fr/).
+This repository is an empty 'shell'. You can fork it to commit your answers. It also contains references to the main repo, that has the content, tasks and projects of the program.
 
-Projects and assignments will allow you to independently develop your programming skills, and the practical experience and knowledge gained while completing assignments and projects of School 42 will give you the necessary basis for professional integration, helping you to get a demanded profession from scratch.
+Projects and assignments will allow you to independently develop your programming skills, and the practical experience and knowledge gained while completing assignments and projects of School 2A will give you the necessary basis for professional integration, helping you to get a demanded profession from scratch.
 
-By sequentially moving through the directions, languages ​​and educational projects of School 42, using [the `Holy Graph` projects map](https://github.com/brunomileto/42_school/tree/main/00_Piscine_C_(Piscine_School_Test)/Holy_Graph.png), you will develop fundamental technical skills:
+By sequentially moving through the directions, languages ​​and educational projects of School 2A, using [the `Holy Graph` projects map](https://github.com/brunomileto/42_school/tree/main/00_Piscine_C_(Piscine_School_Test)/Holy_Graph.png), you will develop fundamental technical skills:
 
 - System programming skills.
 - Knowing and understanding the essence of operating systems, networks, clouds and the services they contain.
@@ -42,13 +42,13 @@ By sequentially moving through the directions, languages ​​and educational p
 - DB and Data.
 - etc.
 
-School 42's curriculum is individualized. Here, everyone progresses on their own, at their own pace, and not in accordance with the entire class of students (where the latest element slows down the work of the entire group), thus gaining their own understanding of programming paradigms.
+School 2A's curriculum is individualized. Here, everyone progresses on their own, at their own pace, and not in accordance with the entire class of students (where the latest element slows down the work of the entire group), thus gaining their own understanding of programming paradigms.
 
 
 
 # 0. SCHOOL DOCUMENTATION #
 
-Here you can familiarize yourself with the rules in force within the walls of School 42, learn about the curriculum itself, read about the standards by which you will need to write code when solving tasks and projects, and also see everything that will help you start learning programming according to the program Schools 42.
+Here you can familiarize yourself with the rules in force within the walls of School 2A, learn about the curriculum itself, read about the standards by which you will need to write code when solving tasks and projects, and also see everything that will help you start learning programming according to the program Schools 2A.
 
  * Description of the training course: [[ pdf ]](https://github.com/brunomileto/42_school/tree/main/03_Norme____(Rules_and_Regulations_of_the_School)/cursus_manual.en.pdf) [[ md ]](https://github.com/brunomileto/42_school/tree/main/03_Norme____(Rules_and_Regulations_of_the_School)/cursus_manual.en.md)
 
@@ -93,7 +93,7 @@ Here you can familiarize yourself with the rules in force within the walls of Sc
 
 # 1. PISCINE C #
 
-It is from this place that the teaching of programming in School 42 will begin.
+It is from this place that the teaching of programming in School 2A will begin.
 
 - `Piscine` by language `C`: [[ en ]](https://github.com/brunomileto/42_school/tree/main/00_Piscine_C_(Piscine_School_Test))
 - Exam tasks of the `Piscine` by language `C`: [[ en ][ fr ][ ro ]](https://github.com/brunomileto/42_school/tree/main/00_Piscine_C_(Piscine_School_Test)/Exam_C)
@@ -120,7 +120,7 @@ Remember that learning the C programming language is fundamental to learning all
 
 [Core Learning Projects](https://github.com/brunomileto/42_school/tree/main/00_Projects__(Main_Training)/)  represent the next step in programming learning. All of them are grouped by directions, which are represented as branches. Remember that each subsequent project of your chosen branch is more difficult than the previous one and can only be solved using the skills acquired in previous projects.
 
-Use [ the `Holy Graph` project map ](https://github.com/brunomileto/42_school/tree/main/00_Projects__(Main_Training)/Holy_Graph.png) and [ the visual` highlighting_branches` ](https://github.com/brunomileto/42_school/tree/main/00_Projects__(Main_Training)/highlighting_branches_Holy_Graph.gif) direction map to progress through the school 42 mainstream assignments/projects.
+Use [ the `Holy Graph` project map ](https://github.com/brunomileto/42_school/tree/main/00_Projects__(Main_Training)/Holy_Graph.png) and [ the visual` highlighting_branches` ](https://github.com/brunomileto/42_school/tree/main/00_Projects__(Main_Training)/highlighting_branches_Holy_Graph.gif) direction map to progress through the School 2A mainstream assignments/projects.
 
 ---
 > ### [[Global - shared branch]](https://github.com/brunomileto/42_school/tree/main/00_Projects__(Main_Training)/00_Global_(begin_cadet)/)
@@ -330,7 +330,7 @@ Use [ the `Holy Graph` project map ](https://github.com/brunomileto/42_school/tr
 ---
 
 
-# 3. OTHER PISCINES BY SCHOOL 42 #
+# 3. OTHER PISCINES BY School 2A #
 
 > - [[>]](https://github.com/brunomileto/42_school/tree/main/01_Piscines__(Other_Pools_of_the_Main_Training_Course)/piscine_php_symfony) PHP-Symphony
 > - [[>]](https://github.com/brunomileto/42_school/tree/main/01_Piscines__(Other_Pools_of_the_Main_Training_Course)/piscine_python-django) Python-Django
@@ -340,7 +340,7 @@ Use [ the `Holy Graph` project map ](https://github.com/brunomileto/42_school/tr
 
 
 
-# 4. GROUP PROJECT BY SCHOOL 42(Rushes - miniHACKATHONS) #
+# 4. GROUP PROJECT BY School 2A(Rushes - miniHACKATHONS) #
 
 > - [[>]](https://github.com/brunomileto/42_school/tree/main/02_Rushes___(Group_Projects_of_the_Main_Training_Course)/alcu.pdf) AlCu
 > - [[>]](https://github.com/brunomileto/42_school/tree/main/02_Rushes___(Group_Projects_of_the_Main_Training_Course)/alum1.pdf) Alum1
