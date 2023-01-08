@@ -1,6 +1,6 @@
-# PROJECTS AND TASKS OF THE BASIC COURSE OF SCHOOL 42
+# PROJECTS AND TASKS OF THE BASIC COURSE OF  School 2A
 
-![(Projects of the main course of study of the programming School'42'](./highlighting_branches_Holy_Graph.gif)
+![(Projects of the main course of study of the programming School'42'](https://github.com/brunomileto/42_school/blob/main/00_Projects__(Main_Training)/highlighting_branches_Holy_Graph.gif)
 
 
 ---
@@ -9,7 +9,7 @@
 <details>
 <summary> MAP OF PROJECTS </summary>
 
-![map Holy_Graph](./Holy_Graph.png)
+![map Holy_Graph](https://github.com/brunomileto/42_school/blob/main/00_Projects__(Main_Training)/Holy_Graph.png)
 
 </details>
 
@@ -21,7 +21,7 @@ Core course projects are the next step in learning to code. All of them are grou
 
 
 ---
-> ### [[GLOBAL - General branch]](./00_Global_(begin_cadet)/)
+> ### [[GLOBAL - General branch]](https://github.com/brunomileto/42_school/tree/main/00_Global_(begin_cadet)/)
 ---
 >> #### The main training starts from this branch.
 >-42_commandments
@@ -34,7 +34,7 @@ Core course projects are the next step in learning to code. All of them are grou
 ---
 
 
-> ### [[UNIX branch]](./01_Unix/)
+> ### [[UNIX branch]](https://github.com/brunomileto/42_school/tree/main/01_Unix/)
 ---
 >> #### This branch contains several directions: Unix, Kernel, Virus, Security, Network.
 >-ft_ls
@@ -91,7 +91,7 @@ Core course projects are the next step in learning to code. All of them are grou
 
 
 
-> ### [[Algorithm Branch]](./02_Algorithmic/)
+> ### [[Algorithm Branch]](https://github.com/brunomileto/42_school/tree/main/02_Algorithmic/)
 ---
 >> #### This branch contains several directions: Algorithms, Data Science, Cryptography.
 >-ft_printf
@@ -119,7 +119,7 @@ Core course projects are the next step in learning to code. All of them are grou
 
 
 
-> ### [[Graphics branch]](./03_Graphic/)
+> ### [[Graphics branch]](https://github.com/brunomileto/42_school/tree/main/03_Graphic/)
 ---
 > - FDF
 > - Fract'Ol
@@ -137,7 +137,7 @@ Core course projects are the next step in learning to code. All of them are grou
 
 
 
-> ### [[WEB branch]](./04_Web/)
+> ### [[WEB branch]](https://github.com/brunomileto/42_school/tree/main/04_Web/)
 ---
 > - piscine PHP
 > - Camagru
@@ -151,7 +151,7 @@ Core course projects are the next step in learning to code. All of them are grou
 
 
 
-> ### [[System & Network Administration]](./05_Infrastructure_and_Admin/)
+> ### [[System & Network Administration]](https://github.com/brunomileto/42_school/tree/main/05_Infrastructure_and_Admin/)
 ---
 > - init
 >-docker-1
@@ -164,7 +164,7 @@ Core course projects are the next step in learning to code. All of them are grou
 
 
 
-> ### [[Android & iOS branch]](./06_Android-iOS/)
+> ### [[Android & iOS branch]](https://github.com/brunomileto/42_school/tree/main/06_Android-iOS/)
 ---
 > - piscine Swift iOS
 > - Swifty Companion
@@ -178,7 +178,7 @@ Core course projects are the next step in learning to code. All of them are grou
 
 
 
-> ### [[C++ branch]](./07_CPP/)
+> ### [[C++ branch]](https://github.com/brunomileto/42_school/tree/main/07_CPP/)
 ---
 > - C++ modules (this is the same as `piscine C++` but new version)
 > - piscine C++ (this is the same as `modules C++` but an older version)
@@ -192,7 +192,7 @@ Core course projects are the next step in learning to code. All of them are grou
 
 
 
-> ### [[Unity branch]](./08_Unity/)
+> ### [[Unity branch]](https://github.com/brunomileto/42_school/tree/main/08_Unity/)
 ---
 > - piscine Unity
 > - XV
@@ -201,7 +201,7 @@ Core course projects are the next step in learning to code. All of them are grou
 
 
 
-> ### [[OCaml branch]](./09_OCaml/)
+> ### [[OCaml branch]](https://github.com/brunomileto/42_school/tree/main/09_OCaml/)
 ---
 > - piscine Ocaml
 >-ft_ality
@@ -211,7 +211,7 @@ Core course projects are the next step in learning to code. All of them are grou
 
 
 
-> ### [[Ai Projects - Artificial Intelligence]](./10_Ai/)
+> ### [[Ai Projects - Artificial Intelligence]](https://github.com/brunomileto/42_school/tree/main/10_Ai/)
 ---
 >- walking_marvin
 >-ft_sommelier
@@ -220,7 +220,7 @@ Core course projects are the next step in learning to code. All of them are grou
 
 
 
-> ### [[Side Projects]](./11_Side_Projects/)
+> ### [[Side Projects]](https://github.com/brunomileto/42_school/tree/main/11_Side_Projects/)
 ---
 >-ft_db
 > - KIFT
